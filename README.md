@@ -1,5 +1,4 @@
-# SmartPulse-Time-Series-Clustering-and-Regression
-Task1: Hierarchical clustering time series sequences of electrical production prices using dynamic time warping.
-
-
-Task2: Multi-step time series regression where the model uses initial predictions for latter predictions.
+# Time-Series-Clustering-and-Regression
+Inclusing 2 projects:
+Hierarchical clustering of daily energy market data using dynamic time warping.
+Multi-step time series regression where the model uses initial predictions for latter predictions.
